@@ -57,9 +57,13 @@ closer to you and your connections. So, that's why, I didn't need to search for 
 
 https://user-images.githubusercontent.com/76060198/167689176-fdd0dc6f-8e14-429d-933f-14f16ee04c4b.mp4
 
-` Behind the scenes :`
+`You may have noticed some duplicates, dont worry, there is a section of code to edit those out and export the lists in LinkedIn_xx.csv file`
+
+`Behind the scenes :`
 
 https://user-images.githubusercontent.com/76060198/167691850-a3470597-b1df-419b-92fd-1a4d1ddf9a4d.mp4
+
+
 
 
 
