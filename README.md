@@ -75,9 +75,9 @@ Data Analysis
 
 ![image](https://user-images.githubusercontent.com/76060198/168495368-0b773562-2ea4-405f-b4fa-e61554cf1799.png)
 
-![image](https://user-images.githubusercontent.com/76060198/168495383-84c14cef-b21a-488d-9758-e0a13c73533f.png)
+![image](https://user-images.githubusercontent.com/76060198/168495575-76865fb6-bfdc-426c-83ed-4fe99c411670.png)
 
-![image](https://user-images.githubusercontent.com/76060198/168495417-a3727fe2-041f-4821-8af7-35b61c7033dd.png)
+![image](https://user-images.githubusercontent.com/76060198/168495595-a90537c8-f8f0-4206-a003-e62987f0f342.png)
 
 
 
