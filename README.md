@@ -35,7 +35,7 @@ less or more than the number of pages you specified, the error will be ignored`
 
 ***`NB : You may be wondering why not go up to the end of the page for each search result? Well, technically, yes it's possible.`***
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) How ? 
+```How ?```
 
 ``` 
 While True:
