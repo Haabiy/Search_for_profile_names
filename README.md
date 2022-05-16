@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/76060198/167691850-a3470597-b1df-419b-
 
 `Final output` : https://github.com/Haabiy/Search_for_profile_names/blob/5ef882afa2f0ac63f66bb6dd237b3b0371f7f70d/LinkedIn_xx.csv
 
-Data Analysis
+*Data Analysis*
 
 ![image](https://user-images.githubusercontent.com/76060198/168495284-a5be14db-2c08-4c3c-a139-d53df393d05a.png)
 
