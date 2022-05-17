@@ -1,3 +1,11 @@
+# Disclaimer
+
+```diff
+- This is purely intended for educational and not-illegal purposes as Scraping data off of LinkedIn is against their User Agreement.
+
+User agreement : https://news.linkedin.com/2022/february/taking-legal-action-to-protect-members-against-scraping
+```
+
 # Search for profile names
 
 Have you ever thought about searching for profiles on LinkedIn and extract information out of it? Well, this repository is made for you !
